@@ -1,9 +1,9 @@
 # Fixing Computer Vision Projects: Debugging & Optimization
 
 <p float="left"> 
-  <img src="Computervision.png" width="30%" /> 
-  <img src="worldquantuniversity.png" width="30%" /> 
-  <img src="My Image.png" width="30%" /> 
+  <img src="WQUlogo.png" width="30%" /> 
+  <img src="Fixing my Code.png" width="30%" /> 
+  <img src="Fixing my Code 1.png" width="30%" /> 
 </p>
 
 ## Introduction
